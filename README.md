@@ -1,7 +1,7 @@
 # PointGetter
 
-## ゲームの内容
-発射される弾をよけながら三角形のオブジェクトを集める
+## 発射される弾をよけながら三角形のオブジェクトを集める
+
 
 <img width="1919" height="1079" alt="スクリーンショット 2026-04-27 184207" src="https://github.com/user-attachments/assets/7f191f03-ae0a-4c61-9589-f99f73c5a7f6" />
 
